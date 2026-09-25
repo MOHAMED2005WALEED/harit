@@ -1,0 +1,166 @@
+body {
+  font-family: "Times New Roman", serif;
+  margin: 10px;
+}
+
+.header {
+  background-color: #dcecfb;
+  padding: 10px;
+  height: 160px;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+  float: left;
+}
+
+.heading {
+  text-align: center;
+  margin-left: 150px;
+}
+
+.heading h1 {
+  color: darkblue;
+  font-size: 40px;
+  margin: 5px;
+}
+
+.heading h2 {
+  color: darkblue;
+  font-size: 29px;
+  margin: 5px;
+}
+
+.tagline {
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: new rome;
+}
+
+.motto {
+  float: right;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: -115px;
+  margin-right: 15px;
+}
+
+.learn { color: green; }
+.grow { color: blue; }
+.innovate { color: red; }
+.serve { color: purple; }
+
+.main-image {
+  width: 100%;
+  height: 310px;
+  object-fit: cover;
+  margin-top: 8px;
+}
+
+.about {
+  width: 64%;
+  float: left;
+  padding: 10px;
+}
+
+.vision {
+  width: 28%;
+  float: right;
+  background-color: #fff8d9;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.green-heading {
+  color: darkgreen;
+  font-size: 34px;
+}
+
+.blue-heading {
+  color: darkblue;
+  font-size: 33px;
+}
+
+p {
+  font-size: 19px;
+  line-height: 1.3;
+}
+
+.red {
+  color: red;
+  font-weight: bold;
+}
+
+.blue {
+  color: blue;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.faculties {
+  width: 43%;
+  float: left;
+  clear: left;
+  padding: 10px;
+}
+
+.programmes {
+  width: 52%;
+  float: right;
+  padding: 10px;
+}
+
+.faculty-list {
+  font-size: 19px;
+  line-height: 1.5;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 6px;
+  font-size: 17px;
+  text-align: center;
+}
+
+th {
+  background-color: #d7edc8;
+}
+
+.bottom {
+  clear: both;
+  padding-top: 15px;
+}
+
+.contact {
+  background-color: #fff0f4;
+  width: 45%;
+  float: left;
+  padding: 20px;
+}
+
+.more {
+  background-color: #e6f5ff;
+  width: 45%;
+  float: right;
+  padding: 20px;
+}
+
+.contact h2 {
+  color: red;
+}
+
+.more h2 {
+  color: darkgreen;
+}
+
+a {
+  color: blue;
+  font-weight: bold;
+}
